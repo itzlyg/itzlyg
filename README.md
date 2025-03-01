@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,jquery,js,vue,mysql,python,lua,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,jquery,js,vue,mysql,python,lua,scala,css,docker,eclipse,elasticsearch,idea,kafka,linux,md,maven,nginx,redis,spring,ts)](https://skillicons.dev)
 
 
 </p>
